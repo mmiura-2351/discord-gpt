@@ -7,7 +7,10 @@ discord-gpt
 │ ├─modules
 │ │  ├─chat.py
 │ │  └─image.py
+│ ├─tests
+│ │  └─test_main.py
 │ └─main.py
 ├─.gitignore
 ├─.env
-└─design.md
+├─design.md
+└─requirements.txt
