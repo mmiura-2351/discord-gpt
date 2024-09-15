@@ -21,12 +21,6 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install pipreqs
-        run: pip install pipreqs
-
-      - name: Generate requirements.txt
-        run: pipreqs .
-
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
