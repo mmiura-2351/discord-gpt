@@ -21,6 +21,7 @@
     "pylint.args": [
         // import時にエラーが表示される場合があるので除外
         "--disable=C0114",
+        "--disable=missing-module-docstring",
     ],
     // python
     "python.linting.enabled": true,
