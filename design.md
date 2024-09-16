@@ -28,3 +28,20 @@ discord-gpt
 ├─pytest.ini
 └─requirements.txt
 ```
+
+# 各ファイル構造
+## .github/workflows/ci.yaml
+## .github/pull_request_template.md
+## .vscode/settings.json
+## src/modules/ai/chat.py
+## src/modules/ai/image.py
+## src/modules/discord/commands.py
+## src/tests/conftest.py
+## src/tests/test_main.py
+## src/main.py
+## .env
+## .gitignore
+## .pylintrc
+## design.md
+## pytest.ini
+## requirements.txt
